@@ -3,7 +3,7 @@
 
 - 🔭 Atual projeto em desenvolvimento: **Home-Page limonada**
 
-- 🏫 Cursando Técnico em Desenvolcimento de Sistemas na Etec de São Roque
+- 🏫 Cursando Técnico em Desenvolvimento de Sistemas na Etec de São Roque
 
 - 🌱 Atualmente estou estudando: **Javascript, Css, Html e Php**
 
